@@ -15,6 +15,6 @@ scikit-learn==0.20.0
 scipy==1.2.1
 setuptools==39.1.0
 tensorboard==1.10.0
-tensorflow==1.10.1
+tensorflow==1.15.2
 tifffile==2019.3.18
 tqdm==4.28.1
